@@ -1,0 +1,1 @@
+secret_key = '32d0jgf3CMD@(#DMKjmcd1we09E3U@Q'
